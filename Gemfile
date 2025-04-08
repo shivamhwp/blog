@@ -2,6 +2,12 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.0"
 gem "minima", "~> 2.5"
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+gem "webrick"
+
 
 # If you want to use GitHub Pages, comment out the "jekyll" gem above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

@@ -1,8 +1,8 @@
 title: "shivam's blog"
 description: >-
-  i write here sometimes
+  not that serious
 baseurl: "/blog" # the subpath of your site
-url: "https://yourusername.github.io" # replace with your GitHub username
+url: "https://shivamhwp.github.io" # replace with your GitHub username
 permalink: /:year/:month/:day/:title/
 theme: minima
 

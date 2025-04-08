@@ -1,6 +1,6 @@
-title: My Blog
+title: "shivam's blog"
 description: >-
-  A personal blog powered by Jekyll and GitHub Pages
+  i write here sometimes
 baseurl: "/blog" # the subpath of your site
 url: "https://yourusername.github.io" # replace with your GitHub username
 permalink: /:year/:month/:day/:title/
